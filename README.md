@@ -20,7 +20,7 @@ The project involves the creation of a digital card with personal information.
 - **UserProfileCard.css:** CSS file for styling the digital card.
 
 ### Screenshot
-![Alt text](Screenshot1.png)
+![Alt text](image.png)
 
 ## Usage
 
