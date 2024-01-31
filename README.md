@@ -27,5 +27,4 @@ The project involves the creation of a digital card with personal information.
 Install the dependencies:
 npm install
 Run application:
-npm start 
-
+npm start
