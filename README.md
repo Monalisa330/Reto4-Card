@@ -29,3 +29,6 @@ Install the dependencies:
 
 Run application:
 - **npm start**
+
+### Link to the Deployed Application
+https://monalisa330.github.io/reto4-card/
