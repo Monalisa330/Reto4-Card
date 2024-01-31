@@ -13,7 +13,7 @@ The project involves the creation of a digital card with personal information.
 
 ### Components
 
-- **UserProfileCard.js:** React component for the digital card.
+- **UserProfileCard.jsx:** React component for the digital card.
 
 ### Styles
 
